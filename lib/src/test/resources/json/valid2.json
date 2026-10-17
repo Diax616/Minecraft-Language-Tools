@@ -1,0 +1,19 @@
+{
+	"gui.minepreggo.preggomob.main.label.not_pregnant": "Not Pregnant",
+	"gui.minepreggo.preggomob.main.label.craving": "Craving:",
+	"gui.minepreggo.preggomob.main.label.no_craving": "None",
+	"gui.minepreggo.preggomob.main.label.maybe_pregnant": "Maybe Pregnant",
+	"gui.minepreggo.preggomob.main.label.pregnant": "Pregnant",
+
+	"gui.minepreggo.creepergirl.main.checkbox.explode": "Explode",
+	"gui.minepreggo.creepergirl.main.checkbox.dont_explode": "Don'tExplode",
+	"gui.minepreggo.creepergirl.main.checkbox.fight_and_explode": "FightAndExplote",
+
+	"gui.minepreggo.player_main_menu.label.boob_size": "Boobs Size: %s",	
+
+	"gui.minepreggo.select_entities.medical_checkup.label": "Select Entity",
+	"gui.minepreggo.select_entities.preggomob_trading.label": "Select PreggoMob",
+
+	"gui.minepreggo.medical_checkup.tooltip.ultrasound_scan": "Ultrasound Scan",
+	"gui.minepreggo.medical_checkup.tooltip.pregnancy_state": "Pregnancy State"
+}

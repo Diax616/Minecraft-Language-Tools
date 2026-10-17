@@ -1,0 +1,12 @@
+{
+	"gui.minepreggo.request_to_player.button.stop": "Stop",
+	"gui.minepreggo.request_to_player.label.request_type.sex": "Have Fun",
+	
+	"enchantment.minepreggo.fetal_bond": "Fetal Bond",
+	"enchantment.minepreggo.fetal_bond.desc": "Provides +1 of damage by each baby inside the pregnant entity, The later the pregnancy phase, the more damage is applied.",
+	"enchantment.minepreggo.pregnancy_knockback_resistance": "Pregnancy Knockback Resistance",
+	"enchantment.minepreggo.pregnancy_knockback_resistance.desc": "Reduces the knockback received by the pregnant entity, depending on the pregnaancy stage, knockback resistance will be stronger in later stages of pregnancy",
+
+	"jei.category.minepreggo.armor_expansion": "Armor Expansion",
+	"jei.category.minepreggo.belly_shield_downgrade": "Belly Shield Downgrade"
+}

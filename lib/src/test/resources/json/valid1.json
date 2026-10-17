@@ -1,0 +1,9 @@
+{
+	"gui.minepreggo.parentinfo.label.father": "Father:",
+	"gui.minepreggo.parentinfo.label.mother": "Mother:",
+	"gui.minepreggo.parentinfo.value.absent": "None",
+	"gui.minepreggo.parentinfo.value.unnamed_player": "An unnamed player",
+	"gui.minepreggo.parentinfo.value.unnamed_mob": "An unnamed mob",
+	"gui.minepreggo.parentinfo.value.biological": " - Biological",
+	"gui.minepreggo.parentinfo.value.not_biological": " - Not biological"
+}

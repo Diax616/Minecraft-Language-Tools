@@ -21,6 +21,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.control.ToggleGroup;
 import javafx.scene.layout.VBox;
 import javafx.stage.FileChooser;
+import javafx.stage.Stage;
 import javafx.stage.Window;
 
 public class MainController {
@@ -102,6 +103,12 @@ public class MainController {
 		alert.setHeaderText("MC Language Tools");
 		alert.setContentText("Compare Minecraft lang files: find the keys a translation is missing, "
 				+ "or prune the ones the source no longer has.");
+		alert.setOnShown(event -> {
+		    Stage alertStage = (Stage) alert.getDialogPane()
+		                                    .getScene()
+		                                    .getWindow();
+		    alertStage.getIcons().add(Icons.WARDEN_WOMAN);
+		});
 		alert.showAndWait();
 	}
 
@@ -116,6 +123,12 @@ public class MainController {
 		alert.setTitle("Author");
 		alert.setHeaderText("MC Language Tools");
 		alert.getDialogPane().setContent(content);
+		alert.setOnShown(event -> {
+		    Stage alertStage = (Stage) alert.getDialogPane()
+		                                    .getScene()
+		                                    .getWindow();
+		    alertStage.getIcons().add(Icons.WARDEN_WOMAN);
+		});
 		alert.showAndWait();
 	}
 	

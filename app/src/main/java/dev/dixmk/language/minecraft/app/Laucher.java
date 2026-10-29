@@ -12,6 +12,7 @@ import java.util.Locale;
 public final class Laucher {
 
 	private Laucher() {
+		throw new AssertionError("Utility class should not be instantiated");
 	}
 
 	public static void main(String[] args) {
